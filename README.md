@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Suj4ay/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Suj4ay/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suj4ay/Leetcode/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/Suj4ay/Leetcode/tree/master/0506-relative-ranks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suj4ay/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suj4ay/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suj4ay/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Suj4ay/Leetcode/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/Suj4ay/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suj4ay/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/Suj4ay/Leetcode/tree/master/0506-relative-ranks) |
 ## Monotonic Queue
 |  |
 | ------- |
