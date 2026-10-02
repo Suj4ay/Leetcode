@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suj4ay/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suj4ay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suj4ay/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Suj4ay/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Suj4ay/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Suj4ay/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suj4ay/Leetcode/tree/master/0229-majority-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Suj4ay/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Suj4ay/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suj4ay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Suj4ay/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Suj4ay/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suj4ay/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Suj4ay/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Suj4ay/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suj4ay/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suj4ay/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Suj4ay/Leetcode/tree/master/0268-missing-number) |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suj4ay/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suj4ay/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suj4ay/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
